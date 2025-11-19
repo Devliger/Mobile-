@@ -1,0 +1,22 @@
+# Arquivos Gerados pelo Android Studio
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/tasks.xml
+.DS_Store
+
+# Pastas de Build (que contêm seus 1091 arquivos)
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Arquivos específicos do Gradle
+*.iml
+.settings
+.project
+
+# Arquivos de log e outros
+*.log
+*bin
+*.lock

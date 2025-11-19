@@ -1,0 +1,6 @@
+com.motivamais.app.test.app-jetified-core-1.5.0-0 C:\Users\Lucas Esber Campos\.gradle\caches\9.0-milestone-1\transforms\0b3747e6c804846804525c8e042fc3cf\transformed\jetified-core-1.5.0\res
+com.motivamais.app.test.app-jetified-annotation-experimental-1.3.0-1 C:\Users\Lucas Esber Campos\.gradle\caches\9.0-milestone-1\transforms\3f5e4e0e4b012146db4448a58ea12b48\transformed\jetified-annotation-experimental-1.3.0\res
+com.motivamais.app.test.app-androidTest-2 C:\Users\Lucas Esber Campos\Desktop\Mobile--main\app\build\generated\res\resValues\androidTest\debug
+com.motivamais.app.test.app-mergeDebugAndroidTestResources-3 C:\Users\Lucas Esber Campos\Desktop\Mobile--main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.motivamais.app.test.app-mergeDebugAndroidTestResources-4 C:\Users\Lucas Esber Campos\Desktop\Mobile--main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.motivamais.app.test.app-merged_res-5 C:\Users\Lucas Esber Campos\Desktop\Mobile--main\app\build\intermediates\merged_res\debugAndroidTest
